@@ -1,0 +1,19 @@
+
+.form{
+    width: 15rem;
+    margin: 20%;
+    position: static;
+
+     
+}
+.form-container{
+    position: static;
+    display: flex;
+}
+.cover-img{
+    position: relative;
+    width: 70%;
+    left: 20%;
+    margin: 3%;
+    top: 10%;
+}
